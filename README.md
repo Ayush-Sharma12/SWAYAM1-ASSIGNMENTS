@@ -5,7 +5,7 @@ The aim of this repository is to maintain a structured collection of all problem
 
 ---
 
-## 📘 About
+##  About
 The **CDC Assignments** are designed to strengthen fundamental DSA concepts that are essential for:
 - Coding interviews  
 - Competitive programming  
@@ -15,7 +15,7 @@ This repository serves as a central place where all such assignments are organiz
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 Assignments and solutions are categorized under the following key DSA topics:
 - Arrays and Strings  
 - Linked Lists  
@@ -30,7 +30,7 @@ Assignments and solutions are categorized under the following key DSA topics:
 
 ---
 
-## 💻 How to Use
+##  How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ayush-Sharma12/SWAYAM1-ASSIGNMENTS.git
